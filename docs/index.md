@@ -33,9 +33,9 @@ Name conventions used in the Qitmeer blockchain system and networks are as follo
 
 * [GitHub Repo](https://github.com/Qitmeer/qng)
 * [Qitmeer - Mainnet](https://meerscan.io)
-* [QNG - Mainnet](https://evm.meerscan.io)
+* [QNG - Mainnet](https://qng.qitmeer.io/)
 * [Qitmeer - Testnet](https://testnet.meerscan.io)
-* [QNG - Testnet](https://qng-testnet.meerscan.io/)
+* [QNG - Testnet](https://testnet-qng.qitmeer.io/)
 
 ## Key Community Documents
 * [What is BlockDAG](What_is_BlockDAG.md)
