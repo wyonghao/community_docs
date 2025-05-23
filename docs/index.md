@@ -33,9 +33,9 @@ Name conventions used in the Qitmeer blockchain system and networks are as follo
 
 * [GitHub Repo](https://github.com/Qitmeer/qng)
 * [Qitmeer - Mainnet](https://meerscan.io)
-* [QNG - Mainnet](https://evm.meerscan.io)
+* [QNG - Mainnet](https://qng.qitmeer.io/)
 * [Qitmeer - Testnet](https://testnet.meerscan.io)
-* [QNG - Testnet](https://qng-testnet.meerscan.io/)
+* [QNG - Testnet](https://testnet-qng.qitmeer.io/)
 
 ## Key Community Documents
 * [What is BlockDAG](What_is_BlockDAG.md)
@@ -44,6 +44,6 @@ Name conventions used in the Qitmeer blockchain system and networks are as follo
 * [Solidity Tutorial (Part 1)](solidity_tutorial_basics_part_1.md)
 * [Solidity Tutorial (Part 2)](solidity_tutorial_basics_part_2.md)
 * [Solidity Tutorial (Part 3)](solidity_tutorial_basics_part_3.md)
-
+* [Amana Deployment Tutorial (using Amana Privnet Launcher)](amana_tutorial.md)
 
 For latest Qitmeer project source code visit [Qitmeer/QNG](https://github.com/Qitmeer/qng).
